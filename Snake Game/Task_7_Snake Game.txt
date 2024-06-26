@@ -1,0 +1,5 @@
+Task 7 : Snake Game
+Develop a program that lets the user play the
+classic game of snake, where the player
+controls a snake that grows in length as it eats
+food.
